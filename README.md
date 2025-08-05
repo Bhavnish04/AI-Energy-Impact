@@ -13,9 +13,6 @@ This Power BI dashboard analyzes the energy consumption and CO2 emissions of AI 
 - `dataset.xlsx` – Raw data used
 - `dashboard_screenshot.png` – Preview
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
 
----
 
-Created by Bhavnish Singhall | 📧 [your-email@example.com]
+Created by Bhavnish Singhall 
